@@ -2,3 +2,5 @@
 /.gradle/
 /JSONUtils/build/
 /JSONUtils/build/classes/java/main/
+.idea
+gradle
