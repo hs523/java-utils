@@ -35,8 +35,13 @@ subprojects {
 
     /* 添加通用依赖 */
     dependencies {
+        compile group: 'org.apache.commons', name: 'commons-lang3', version: '3.4'
+        // lombok
+        compile 'org.projectlombok:lombok:1.18.4'
+        compile 'commons-beanutils:commons-beanutils:1.9.3'
 
 
     }
 }
+
 

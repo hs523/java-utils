@@ -10,7 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/BigDecimalUtils" />
             <option value="$PROJECT_DIR$/JSONUtils" />
+            <option value="$PROJECT_DIR$/result" />
           </set>
         </option>
         <option name="useQualifiedModuleNames" value="true" />

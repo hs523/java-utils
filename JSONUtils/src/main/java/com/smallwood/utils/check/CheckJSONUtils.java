@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSONObject;
 /**
  * @Auther smallwood
  * @Date 2019/10/30
- * @Desc
+ * @Desc JSON检验工具类
  */
 public class CheckJSONUtils {
 
